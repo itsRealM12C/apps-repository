@@ -1,5 +1,7 @@
 # Central Repository for webOS Homebrew Project
 
+## More exicting applications for webOS.
+
 ## Submit Your Application
 
 Before submitting your application, please make sure it complies following basic rules:
