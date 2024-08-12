@@ -1,0 +1,24 @@
+title: YouTube Kids AdFree
+iconUri: https://raw.githubusercontent.com/Unambiguous/youtube-webos-kids/main/assets/largeIcon.png
+mmanifestUrl: https://github.com/Unambiguous/youtube-webos-kids/blob/main/tools/gen-manifest.js
+category: multimedia
+pool:main
+description: | **BE SURE TO UNINSTALL THE OFFICIAL YOUTUBE KIDS TV APP BEFORE INSTALLING**
+
+  # youtube-webos-kids
+  YouTube Kids TV App with extended functionalities
+
+  ## Features
+  * Advertisements blocking
+  * Skipping intro, outro and off topic music segments
+  * Hide YouTube Kids logo
+  * [SponsorBlock](https://sponsor.ajay.app/) integration
+
+  **Note:** Configuration screen can be opened by pressing GREEN button on the remote.
+
+ ## Screenshots
+  ![Configuration Screen](https://github.com/webosbrew/youtube-webos/blob/main/screenshots/1_sm.jpg?raw=true)
+  ![Segment Skipped](https://github.com/webosbrew/youtube-webos/blob/main/screenshots/2_sm.jpg?raw=true)
+
+ ## Pre-requisites
+  * Official YouTube Kids app needs to be uninstalled before installation.
