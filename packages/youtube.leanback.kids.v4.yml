@@ -2,7 +2,7 @@ title: YouTube Kids AdFree
 iconUri: https://raw.githubusercontent.com/Unambiguous/youtube-webos-kids/main/assets/largeIcon.png
 mmanifestUrl: https://github.com/Unambiguous/youtube-webos-kids/blob/main/tools/gen-manifest.js
 category: multimedia
-pool:main
+pool: main
 description: | **BE SURE TO UNINSTALL THE OFFICIAL YOUTUBE KIDS TV APP BEFORE INSTALLING**
 
   # youtube-webos-kids
